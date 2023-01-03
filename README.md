@@ -1,10 +1,4 @@
-# Fork of T-UI Linux CLI Launcher
-
-<a href="https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>    <a href="https://f-droid.org/packages/ohi.andre.consolelauncher">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="60">
-</a>
+# RASH/Reckless Repl riceable terminal launcher for android
 
 ## TODO
 Fix outdated and broken documentation
@@ -26,3 +20,12 @@ Something similar to EXWM
 ## Code
 Consider clojure / checkout rash REPL instead of bash-esque / eshell
 
+
+
+# Legal
+This is a fork of T-UI Linux Cli Launcher, original author Francesco Andreuzzi from Trieste, Italy)
+
+Links to the project this is forked from
+https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher&hl=en
+https://github.com/fAndreuzzi/TUI-ConsoleLauncher
+https://f-droid.org/packages/ohi.andre.consolelauncher
