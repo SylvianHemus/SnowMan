@@ -17,6 +17,9 @@ Experiment with restart command
 ## Porting 
 Something similar to EXWM
 
+## Emac interop
+
+
 ## Code
 Consider clojure / checkout rash and reckless REPL and/or eshell instead of bash-esque - set config from UML to .org, inc TeX preview
 
