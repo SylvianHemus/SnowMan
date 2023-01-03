@@ -9,6 +9,8 @@
 ## TODO
 Fix outdated and broken documentation
 Scan for CVE
+Type tuixt t-ui/ui.xml and change <system_wallpaper value="false"/> to <system_wallpaper value="true"/>.
+
 
 ## Useful links
 
