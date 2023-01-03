@@ -18,6 +18,9 @@ Experiment with restart command
 ## Porting 
 Something similar to EXWM
 
+## Code
+Consider clojure / checkout rash REPL instead of bash-esque / eshell
+
 
 ## Useful links
 
