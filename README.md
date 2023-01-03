@@ -1,4 +1,4 @@
-# RASH/Reckless Repl riceable terminal launcher for android
+# RASH/Reckless Repl riceable terminal launcher for android 
 
 ## TODO
 Fix outdated and broken documentation
@@ -18,7 +18,7 @@ Experiment with restart command
 Something similar to EXWM
 
 ## Code
-Consider clojure / checkout rash REPL instead of bash-esque / eshell
+Consider clojure / checkout rash and reckless REPL and/or eshell instead of bash-esque - set config from UML to .org, inc TeX preview
 
 
 
